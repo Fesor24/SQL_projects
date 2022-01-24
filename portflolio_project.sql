@@ -1,8 +1,7 @@
--- original work of Onafeso Olawale
+-- original work by Onafeso Olawale
 -- creating a school database
--- analysing its dataset to provide answers to questions
+-- analyzing its dataset to provide answers to relevant questions
 
--- first attempt creating a database 
 
 -- Thank you
 
